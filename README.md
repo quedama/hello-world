@@ -26,12 +26,11 @@ test
 *   Green
 *   Blue
 
-* Red
-      * red-1
-      * red-2
-* Green
-* Blue
+---
 
+1. First list item
+   - First nested list item
+     - Second nested list item
 ---
 
 [Google先生](https://www.google.co.jp/)
